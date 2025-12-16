@@ -16,7 +16,7 @@ Shows how to automate security reporting by combining Python's data processing w
 ### **Step 1: Get the files**
 ```bash
 # Download the project files
-git clone https://github.com/ThiagoMaria-SecurityIT/security-dashboard.git
+git clone https://github.com/ThiagoMaria-SecurityIT/security-dashboard-Python-SQL.git
 cd security-dashboard
 ```
 
