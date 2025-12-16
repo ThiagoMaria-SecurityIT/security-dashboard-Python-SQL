@@ -1,0 +1,51 @@
+Incident_ID,Date_Reported,Incident_Type,Location,Severity,Status,Date_Resolved,Response_Time_Min
+INC-2024-001,2024-04-12,Physical Security Breach,Container Yard A,High,Resolved,2024-04-16,2409.0
+INC-2024-002,2024-03-15,Malware Detection,Gate 2,High,Resolved,2024-03-22,1925.0
+INC-2024-003,2024-02-22,Insider Threat Indicators,Employee Entrance,Critical,Investigation,,
+INC-2024-004,2024-05-09,Phishing Email Reported,Gate 2,Low,Resolved,2024-05-18,53.0
+INC-2024-005,2024-02-28,Malware Detection,Employee Entrance,High,Investigation,,
+INC-2024-006,2024-01-15,Malware Detection,Cargo Bay 4,High,Resolved,2024-01-18,886.0
+INC-2024-007,2024-01-21,Malware Detection,Control Tower,High,Investigation,,
+INC-2024-008,2024-02-29,Malware Detection,Fuel Storage Area,High,Resolved,2024-03-04,1603.0
+INC-2024-009,2024-04-01,Malware Detection,Server Room A,High,Resolved,2024-04-08,274.0
+INC-2024-010,2024-03-21,Phishing Email Reported,Main Warehouse,Low,Resolved,2024-04-03,58.0
+INC-2024-011,2024-04-15,Malware Detection,Control Tower,High,Resolved,2024-04-16,2221.0
+INC-2024-012,2024-01-14,Unauthorized Network Access,Main Warehouse,Medium,Resolved,2024-01-25,272.0
+INC-2024-013,2024-03-22,Malware Detection,Main Warehouse,High,Resolved,2024-04-02,1420.0
+INC-2024-014,2024-01-15,Phishing Email Reported,Perimeter Fence (North),Low,Investigation,,
+INC-2024-015,2024-03-28,Malware Detection,Main Warehouse,High,Resolved,2024-04-07,631.0
+INC-2024-016,2024-06-11,Physical Security Breach,Container Yard A,High,Resolved,2024-06-17,2422.0
+INC-2024-017,2024-03-12,Malware Detection,Admin Building,High,Resolved,2024-03-18,2386.0
+INC-2024-018,2024-06-20,Unauthorized Network Access,Container Yard A,Medium,Resolved,2024-06-22,190.0
+INC-2024-019,2024-01-01,Unauthorized Network Access,Server Room A,Medium,Resolved,2024-01-07,266.0
+INC-2024-020,2024-01-15,Phishing Email Reported,Employee Entrance,Low,Resolved,2024-01-29,56.0
+INC-2024-021,2024-04-05,Unauthorized Network Access,Gate 2,Medium,Resolved,2024-04-17,230.0
+INC-2024-022,2024-01-29,Phishing Email Reported,Server Room A,Low,Resolved,2024-02-03,46.0
+INC-2024-023,2024-02-14,Phishing Email Reported,Gate 2,Low,Investigation,,
+INC-2024-024,2024-01-28,Phishing Email Reported,Gate 1,Low,Investigation,,
+INC-2024-025,2024-03-15,Phishing Email Reported,Server Room A,Low,Investigation,,
+INC-2024-026,2024-05-08,Phishing Email Reported,Perimeter Fence (North),Low,Resolved,2024-05-16,74.0
+INC-2024-027,2024-06-03,Malware Detection,Gate 2,High,Resolved,2024-06-12,903.0
+INC-2024-028,2024-02-28,Phishing Email Reported,Main Warehouse,Low,Resolved,2024-02-28,62.0
+INC-2024-029,2024-02-21,Phishing Email Reported,Server Room A,Low,Resolved,2024-02-21,60.0
+INC-2024-030,2024-03-21,Phishing Email Reported,Control Tower,Low,Resolved,2024-03-26,5.0
+INC-2024-031,2024-05-26,Unauthorized Network Access,Gate 2,Medium,Resolved,2024-05-31,383.0
+INC-2024-032,2024-05-02,Phishing Email Reported,Gate 3,Low,Resolved,2024-05-05,74.0
+INC-2024-033,2024-05-18,Physical Security Breach,Admin Building,High,Resolved,2024-05-28,2751.0
+INC-2024-034,2024-04-02,Data Exfiltration Alert,Employee Entrance,Critical,Resolved,2024-04-04,9778.0
+INC-2024-035,2024-05-27,Unauthorized Network Access,Gate 1,Medium,Investigation,,
+INC-2024-036,2024-06-16,Malware Detection,Control Tower,High,Resolved,2024-06-26,2438.0
+INC-2024-037,2024-06-07,Data Exfiltration Alert,Cargo Bay 4,Critical,Resolved,2024-06-16,10648.0
+INC-2024-038,2024-02-29,Phishing Email Reported,Admin Building,Low,Resolved,2024-03-11,41.0
+INC-2024-039,2024-06-08,Unauthorized Network Access,Perimeter Fence (North),Medium,Resolved,2024-06-10,267.0
+INC-2024-040,2024-05-10,Data Exfiltration Alert,Gate 3,Critical,Resolved,2024-05-17,14314.0
+INC-2024-041,2024-04-22,Phishing Email Reported,Gate 3,Low,Resolved,2024-05-05,29.0
+INC-2024-042,2024-04-02,Phishing Email Reported,Control Tower,Low,Resolved,2024-04-04,65.0
+INC-2024-043,2024-06-17,Phishing Email Reported,Gate 1,Low,Resolved,2024-06-21,24.0
+INC-2024-044,2024-05-07,Unauthorized Network Access,Cargo Bay 4,Medium,Resolved,2024-05-07,430.0
+INC-2024-045,2024-04-28,Phishing Email Reported,Gate 3,Low,Investigation,,
+INC-2024-046,2024-02-20,Brute Force Attack,Container Yard A,High,Resolved,2024-02-24,2571.0
+INC-2024-047,2024-04-20,Malware Detection,Gate 2,High,Resolved,2024-04-22,786.0
+INC-2024-048,2024-02-18,Phishing Email Reported,Employee Entrance,Low,Investigation,,
+INC-2024-049,2024-02-15,Brute Force Attack,Cargo Bay 4,High,Resolved,2024-02-19,541.0
+INC-2024-050,2024-04-04,Insider Threat Indicators,Admin Building,Critical,Resolved,2024-04-16,4415.0
